@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-11-18T23:34:18.052Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-11-18T23:32:29.051Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 500,
+      "createdAt": "2024-11-18T23:33:26.051Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-11-19T01:40:29.918Z",
+      "id": 4
+    }
+  ]
+}
